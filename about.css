@@ -1,0 +1,31 @@
+h2{
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  color: forestgreen;
+  border: 3px solid blueviolet;
+  padding: 3px;
+}
+
+img{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 4px solid blueviolet;
+}
+
+main{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+main > p{
+  background-color: forestgreen;
+  font-style: oblique;
+}
+
+h1{
+  color: forestgreen;
+}

@@ -13,6 +13,8 @@ section{
 section > p{
   font-size: 40px;
   color: black;
+  background-color: forestgreen;
+  font-style: oblique;
 }
 
 section > img{
