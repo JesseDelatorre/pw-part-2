@@ -1,10 +1,12 @@
 body{
-  background-color: aqua;
+  background-color: whitesmoke;
 }
 
 nav{
   display: flex;
   justify-content: space-evenly;
+  border: 5px solid blueviolet;
+  font-style: italic;
 }
 
 form{
