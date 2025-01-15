@@ -17,4 +17,12 @@ section > p{
   display: flex;
  color: black;
  height: 10%;
+ font-style: oblique;
+ background-color: forestgreen;
+}
+
+h1{
+  display: flex;
+  justify-content: center;
+  color: forestgreen;
 }
