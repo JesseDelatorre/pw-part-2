@@ -1,7 +1,7 @@
 h1{
   display: flex;
   justify-content: center;
-  color: blueviolet;
+  color: forestgreen;
 }
 
 section{
@@ -12,7 +12,7 @@ section{
 
 section > p{
   font-size: 40px;
-  color: blueviolet;
+  color: black;
 }
 
 section > img{
